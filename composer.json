@@ -1,7 +1,7 @@
 {
-  "name": "almasaeed2010/adminlte",
+  "name": "robregonm/adminlte",
   "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
-  "homepage": "http://almsaeedstudio.com/",
+  "homepage": "http://obregon.co/",
   "keywords": [
     "css",
     "js",
@@ -15,6 +15,10 @@
     {
       "name": "Abdullah Almsaeed",
       "email": "support@almsaeedstudio.com"
+    },
+    {
+      "name": "Ricardo Obregon",
+      "email": "robregonm@gmail.com"
     }
   ],
   "license": "MIT",
